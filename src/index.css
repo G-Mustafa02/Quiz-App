@@ -1,0 +1,24 @@
+html{
+    background: #0c0029;
+}
+.quizContainer{
+    width: 70%;
+    height: 400px;
+    font-size: 32px;
+    border: 1px solid black;
+    margin-left: 15%;
+    margin-top: 10%;
+    padding: 20px;
+    background: #c5c5c5;
+    border-radius: 20px;
+    
+}
+.nextButton{
+    width: 50%;
+    height: 50px;
+    font-size: 40px;
+    margin-left: 25%;
+    margin-top: 20px;
+    color: white;
+    background: #0a47f0;
+}
